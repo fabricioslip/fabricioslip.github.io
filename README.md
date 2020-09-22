@@ -10,3 +10,5 @@ eu tinha esquecido de falar o que eu queria falar
 As minhas experimentcoes
 
 Resolvi um bug que tinha nessa linha
+
+Estou muito animado com essa aula de Git e GitHub
